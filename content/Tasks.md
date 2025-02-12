@@ -1,8 +1,11 @@
 Publish Initiativ:
+	
 	- Post on Studon
 	- reinstall quartz or something else
-	- 
+	
+
 Display elements:
+	
 	- GUIs
 		- A-Z (upper case only), 0-9 and : , . 
 		- design how to align them
@@ -24,7 +27,9 @@ Display elements:
 	- Agent
 		- going from stop
 		- shotting
+		
 The Camera (screen position):
+	
 	- how it is shaken when: (trigger with Priority)
 		- fall from great height (how to calculate)
 		- stepped on Monsters/ sculptures
